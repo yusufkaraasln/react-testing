@@ -7,6 +7,7 @@ function Error404() {
     <div>
         <h1>This Page Not Found !</h1>
 
+        <h2>Try again...</h2>
 
     </div>
   )
